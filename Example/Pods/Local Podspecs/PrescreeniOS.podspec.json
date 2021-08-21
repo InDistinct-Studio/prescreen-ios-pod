@@ -1,0 +1,22 @@
+{
+  "name": "PrescreeniOS",
+  "version": "0.1.0",
+  "summary": "A short description of PrescreeniOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/northanapon/PrescreeniOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "northanapon": "nor.thanapon@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/northanapon/PrescreeniOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "PrescreeniOS/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module PrescreeniOS {
+  umbrella header "PrescreeniOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

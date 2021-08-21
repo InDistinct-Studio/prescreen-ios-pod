@@ -1,0 +1,6 @@
+framework module Pods_PrescreeniOS_Tests {
+  umbrella header "Pods-PrescreeniOS_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

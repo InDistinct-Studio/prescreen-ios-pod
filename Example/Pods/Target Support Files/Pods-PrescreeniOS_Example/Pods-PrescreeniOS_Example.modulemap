@@ -1,0 +1,6 @@
+framework module Pods_PrescreeniOS_Example {
+  umbrella header "Pods-PrescreeniOS_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

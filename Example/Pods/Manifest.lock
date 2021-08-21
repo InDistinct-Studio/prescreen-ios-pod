@@ -1,0 +1,16 @@
+PODS:
+  - PrescreeniOS (0.1.0)
+
+DEPENDENCIES:
+  - PrescreeniOS (from `../`)
+
+EXTERNAL SOURCES:
+  PrescreeniOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrescreeniOS: 93503cbcd21831d9c4beb0d49ad761a2571733a3
+
+PODFILE CHECKSUM: 24b65b73f21eb40ff657c37a6c96db3608a1cb6a
+
+COCOAPODS: 1.10.2
